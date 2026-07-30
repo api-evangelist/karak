@@ -1,0 +1,40 @@
+# OpenGDP Network Documentation
+
+> Global Base Layer for Programmable GDP
+
+## Docs
+
+- [Official Links](https://docs.opengdp.network/get-started/community/official-links.md)
+- [Start Here](https://docs.opengdp.network/get-started/introduction/start-here.md): Welcome to OpenGDP.
+- [Audits](https://docs.opengdp.network/get-started/security/audits.md)
+- [Bug Bounty](https://docs.opengdp.network/get-started/security/bug-bounty.md)
+- [Governance](https://docs.opengdp.network/get-started/security/governance.md)
+- [Use Cases](https://docs.opengdp.network/get-started/why-ogdp/use-cases.md)
+- [Overview](https://docs.opengdp.network/get-started/why-ogdp/what-ogdp-offers.md)
+- [Build an Application](https://docs.opengdp.network/guides/build-on-ogdp/build-an-application.md): This section will help you build an application on OpenGDP.
+- [Precompiles](https://docs.opengdp.network/guides/build-on-ogdp/precompiles.md)
+- [Build a Network](https://docs.opengdp.network/guides/build-on-ons/build-a-blockchain.md): This section will help you build a bespoke blockchain using ONS.
+- [Become a Validator](https://docs.opengdp.network/guides/validate-ogdp/become-a-validator.md): This section will help you become a node operator on OpenGDP.
+- [OpenGDP Network Stack](https://docs.opengdp.network/ogdp-network-stack/start-here.md): Launch dedicated economic networks with custom rules, permissions, privacy, and execution environments.
+- [Cryptography](https://docs.opengdp.network/ogdp-network/architecture/cryptography.md)
+- [Network Security](https://docs.opengdp.network/ogdp-network/architecture/network-security.md)
+- [State Model](https://docs.opengdp.network/ogdp-network/architecture/state-model.md)
+- [Transaction Lifecycle](https://docs.opengdp.network/ogdp-network/architecture/transaction-lifecycle.md)
+- [OpenGDP Network](https://docs.opengdp.network/ogdp-network/introduction/start-here.md): OpenGDP Network is the base execution layer for programmable economic activity.
+- [Adaptive Multi-Proposers](https://docs.opengdp.network/ogdp-network/protocol-features/adaptive-multiple-concurrent-proposers.md)
+- [Automatic Fee Swaps](https://docs.opengdp.network/ogdp-network/protocol-features/automatic-fee-swaps.md)
+- [Dedicated Blockspace](https://docs.opengdp.network/ogdp-network/protocol-features/dedicated-blockspace.md)
+- [EVM Compatibility](https://docs.opengdp.network/ogdp-network/protocol-features/evm-compatibility.md)
+- [Native Orderbook](https://docs.opengdp.network/ogdp-network/protocol-features/native-orderbook.md)
+- [Private Transactions](https://docs.opengdp.network/ogdp-network/protocol-features/private-transactions.md)
+- [Stablecoin Gas](https://docs.opengdp.network/ogdp-network/protocol-features/stablecoin-gas.md)
+- [Move Value](https://docs.opengdp.network/platform/move-value.md)
+- [Orchestrate GDP](https://docs.opengdp.network/platform/orchestrate-gdp.md)
+- [Overview](https://docs.opengdp.network/platform/overview.md): The OpenGDP Platform is one operating layer where value moves, instruments execute, controls enforce, and autonomous systems coordinate real-world economic activity.
+- [Program Assets](https://docs.opengdp.network/platform/program-assets.md)
+- [Use Cases](https://docs.opengdp.network/platform/use-cases.md)
+
+## Optional
+
+- [Website](https://opengdp.network)
+- [Blog](https://blog.opengdp.network/)
