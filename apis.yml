@@ -1,8 +1,29 @@
 aid: karak
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/karak.png
 name: Karak
-description: 'Karak is a company surfaced as a portfolio company of pantera-capital and added to the API
-  Evangelist network as a stub for enrichment. Sector: crypto. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: 'Karak — now operating as OpenGDP — is a blockchain infrastructure project
+  incubated by Andalusia Labs and backed by Pantera Capital. Originally a universal
+  restaking protocol (K2 / v1 + v2 staking), it has rebranded to OpenGDP, positioned
+  as a global base layer for programmable GDP: an EVM-compatible execution layer unifying
+  stablecoin settlement, real-world asset tokenization, and autonomous economic workflow
+  orchestration for enterprises, institutions, and governments. The stack spans the
+  OpenGDP Network (base execution layer with adaptive multi-proposers, automatic fee
+  swaps, dedicated blockspace, native orderbook, private transactions, and stablecoin
+  gas), the OpenGDP Network Stack (ONS) for launching bespoke economic networks, and
+  a platform layer for moving value, programming assets, and orchestrating GDP. It
+  exposes on-chain/EVM infrastructure (precompiles, validators, the K2 bridge) rather
+  than a hosted REST API; developer resources are published at docs.opengdp.network.'
 url: https://raw.githubusercontent.com/api-evangelist/karak/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,18 +31,55 @@ x-backed-by:
 - pantera-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-rebrand:
+  former: Karak (karak.network)
+  current: OpenGDP (opengdp.network)
+  parent: Andalusia Labs
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Crypto
+- Blockchain
+- Restaking
+- Stablecoins
+- Tokenization
+- EVM
+- Infrastructure
+- DeFi
+- Web3
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
 common:
 - type: Website
-  url: https://karak.network/
+  url: https://opengdp.network/
+- type: DeveloperPortal
+  url: https://docs.opengdp.network
+- type: Documentation
+  url: https://docs.opengdp.network
+- type: GettingStarted
+  url: https://docs.opengdp.network/get-started/introduction/start-here.md
+- type: Blog
+  url: https://opengdp.network/blog
+- type: PrivacyPolicy
+  url: https://opengdp.network/privacy-policy
+- type: TermsOfService
+  url: https://opengdp.network/terms-of-service
+- type: LLMsTxt
+  url: llms/karak-llms.txt
+- type: Security
+  url: https://docs.opengdp.network/get-started/security/bug-bounty.md
+- type: VulnerabilityDisclosure
+  url: security/karak-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/karak-domain-security.yml
